@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Advantages</title>
+</head>
+<body bgproperties="fixed" background="bg.jpg">
+
+<hr width="100%" size="3" color="white">
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1346" height="72" id="h1" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="h1.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="h1.swf" quality="high" bgcolor="#ffffff" width="1346" height="72" name="h1" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+
+<br><hr width="100%" size="3" color="white">
+
+
+<center>
+	
+<a href="about.html"><img src="b1.jpg"></a>
+
+<a href="features.html"><img src="b2.jpg"></a>
+
+<a href="history.html"><img src="b3.jpg"></a>
+
+<a href="advantages.html"><img src="b4.jpg"></a>
+
+<a href="disadvantages.html"><img src="b5.jpg"></a>
+	
+</center>
+
+<hr width="100%" size="3" color="white">
+	
+
+
+<h1>
+
+<font face="Matura MT Script Capitals" color="white"> 
+<center>Advantages </center> </font>
+</h1>
+
+<hr width="100%" size="2" color="white">
+<Img src="history.jpg" align="right" width="300" height="200" border="4" >
+<p>
+<font face="Arial Rounded MT" color="white" size="5">
+
+The precursor for the modern home online banking services were the distance banking services over electronic media from the early 1980s. The term online became popular in the late '80s and referred to the use of a terminal, keyboard and TV (or monitor) to access the banking system using a phone line. 'Home banking' can also refer to the use of a numeric keypad to send tones down a phone line with instructions to the bank. Online services started in New York in 1981 when four of the city's major banks (Citibank, Chase Manhattan, Chemical and Manufacturers Hanover) offered home banking services using the videotex system. Because of the commercial failure of videotex these banking services never became popular except in France where the use of videotex (Minitel) was subsidised by the telecom provider and the UK, where the Prestel system was used.
+When the clicks-and-bricks euphoria hit in the late 1990s, many banks began to view Web-based banking as a strategic imperative. The attraction of banks to online banking are fairly obvious: diminished transaction costs, easier integration of services, interactive marketing capabilities, and other benefits that boost customer lists and profit margins. Additionally, Web banking services allow institutions to bundle more services into single packages, thereby luring customers and minimizing overhead.
+A mergers-and-acquisitions wave swept the financial industries in the mid-and late 1998s, greatly expanding banks' customer bases. Following this, banks looked to the Web as a way of maintaining their customers and building loyalty. A number of different factors are causing bankers to shift more of their business to the virtual realm.
+While financial institutions took steps to implement e-banking services in the mid-1990s, many consumers were hesitant to conduct monetary transactions over the web. It took widespread adoption of electronic commerce, based on trailblazing companies such as America Online, Amazon.com and eBay, to make the idea of paying for items online widespread. By 2000, 80 percent of U.S. banks offered e-banking. Customer use grew slowly. At Bank of America, for example, it took 10 years to acquire 2 million e-banking customers. However, a significant cultural change took place after the Y2K scare ended. In 2001, Bank of America became the first bank to top 3 million online banking customers, more than 20 percent of its customer base. In comparison, larger national institutions, such as Citigroup claimed 2.2 million online relationships globally, while J.P. Morgan Chase estimated it had more than 750,000 online banking customers. Wells Fargo had 2.5 million online banking customers, including small businesses. Online customers proved more loyal and profitable than regular customers. In October 2001, Bank of America customers executed a record 3.1 million electronic bill payments, totaling more than $1 billion. In 2009, a report by Gartner Group estimated that 47 percent of U.S. adults and 30 percent in the United Kingdom bank online.
+The UK's first home online banking services known as Homelink was set up by Bank of Scotland for customers of the Nottingham Building Society (NBS) in 1983. The system used was based on the UK's Prestel viewlink system and used a computer, such as the BBC Micro, or keyboard (Tandata Td1400) connected to the telephone system and television set. The system allowed on-line viewing of statements, bank transfers and bill payments. In order to make bank transfers and bill payments, a written instruction giving details of the intended recipient had to be sent to the NBS who set the details up on the Homelink system. Typical recipients were gas, electricity and telephone companies and accounts with other banks. Details of payments to be made were input into the NBS system by the account holder via Prestel. A cheque was then sent by NBS to the payee and an advice giving details of the payment was sent to the account holder. BACS was later used to transfer the payment directly.
+Stanford Federal Credit Union was the first financial institution to offer online internet banking services to all of its members in October 1994.
+Today, many banks are internet only banks. Unlike their predecessors, these internet only banks do not maintain brick and mortar bank branches. Instead, they typically differentiate themselves by offering better interest rates and more extensive online banking features.
+</font>
+</p><br>
+<a href="main.html"><img src="Home Button.jpg" width="52" heigth="52" border="2"></a>
+</body>
+</html>

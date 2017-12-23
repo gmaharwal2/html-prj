@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Features</title>
+</head>
+<body bgproperties="fixed" background="bg.jpg">
+
+<hr width="100%" size="3" color="white">
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1346" height="72" id="h1" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="h1.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="h1.swf" quality="high" bgcolor="#ffffff" width="1346" height="72" name="h1" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+
+<br><hr width="100%" size="3" color="white">
+
+
+<center>
+	
+<a href="about.html"><img src="b1.jpg"></a>
+
+<a href="features.html"><img src="b2.jpg"></a>
+
+<a href="history.html"><img src="b3.jpg"></a>
+
+<a href="advantages.html"><img src="b4.jpg"></a>
+
+<a href="disadvantages.html"><img src="b5.jpg"></a>
+
+
+	
+</center>
+
+<hr width="100%" size="3" color="white">
+<h1>
+
+<font face="Matura MT Script Capitals" color="white"> 
+<center>Features of E-Banking</center> </font>
+</h1>
+
+<hr width="100%" size="2" color="white">
+<Img src="features.jpg" align="right" width="300" height="200" border="4" >
+<p>
+<font face="Arial Rounded MT" color="white" size="5">
+<p>
+Online banking facilities offered by various financial institutions have many features and capabilities in common, but also have some that are application specific.
+The common features fall broadly into several categories:
+<ul type="disk">
+<li>A bank customer can perform non-transactional tasks through online banking, including -</li>
+	<ul type="disk">
+		<li>viewing account balances</li>
+		<li>viewing recent transactions</li>
+		<li>Downloading bank statements, for example in PDF format</li>
+		<li>viewing images of paid cheques</li>
+		<li>ordering cheque books</li>
+		<li>Download periodic account statements</li>
+		<li>Downloading applications for M-banking, E-banking etc.</li>
+	</ul>
+<li>Bank customers can transact banking tasks through online banking, including -</li>
+	<ul type="disk">
+		<li>Funds transfers between the customer's linked accounts</li>
+		<li>Paying third parties, including bill payments (see, e.g., BPAY) 					and third partyfund transfers(see, e.g., FAST)</li>
+		<li>Investment purchase or sale</li>
+		<li>Loan applications and transactions, such as repayments of enrollments</li>
+		<li>Credit card applications</li>
+		<li>Register utility billers and make bill payments</li>
+	</ul>
+<li>Financial institution administration</li>
+<li>Management of multiple users having varying levels of authority</li>
+<li>Transaction approval process</li>
+<li>the process of banking has become much faster</li>
+</ul>
+Some financial institutions offer unique Internet banking services, for example:
+<ul type="disk">
+	<li>Personal financial management support, such as importing data into personal accounting software. Some online banking platforms support account aggregation to allow the customers to monitor all of their accounts in one place whether they are with their main bank or with other institutions.</li>
+</ul>
+</p><br>
+<a href="main.html"><img src="Home Button.jpg" width="52" heigth="52" border="2"></a>
+</body>
+</html>
